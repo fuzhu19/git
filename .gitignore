@@ -119,6 +119,9 @@ web.config
 *.suo
 *.csproj.user
 
+# ===== 文档 =====
+*.pdf
+
 # ===== 大文件 & 数据 =====
 *.pkl
 *.h5
