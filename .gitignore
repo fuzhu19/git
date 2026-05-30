@@ -1,0 +1,152 @@
+# ===== 系统 & OS =====
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ===== IDE & 编辑器 =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# ===== 日志 =====
+*.log
+*.log.*
+logs/
+*.tmp
+
+# ===== 临时文件 =====
+*.tmp
+*.temp
+*.bak
+*.cache
+*.swp
+~$*
+
+# ===== 压缩文件 =====
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar
+
+# ===== 编译产物 =====
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.class
+*.jar
+*.war
+*.out
+*.app
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.whl
+
+# ===== Node.js =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# ===== C/C++ =====
+*.ilk
+*.pdb
+*.exp
+*.lib
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.sln.docstates
+Win32/
+x64/
+Debug/
+Release/
+ipch/
+*.aps
+*.ncb
+*.user
+*.vc.opendb
+*.db
+*.opendb
+
+# ===== Java =====
+*.class
+target/
+*.ctxt
+.mtj.tmp/
+*.ear
+*.war
+*.nar
+hs_err_pid*
+
+# ===== .NET / C# =====
+[Bb]in/
+[Oo]bj/
+packages/
+*.nupkg
+TestResults/
+app.config
+web.config
+*.pdb
+*.cache
+*.suo
+*.csproj.user
+
+# ===== 文档 =====
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.xlsx
+*.xls
+
+# ===== 大文件 & 数据 =====
+*.pkl
+*.h5
+*.hdf5
+*.mat
+*.npy
+*.npz
+*.csv
+*.tsv
+*.parquet
+*.feather
+
+# ===== 密钥 & 配置 =====
+.env
+.env.*
+*.pem
+*.key
+*.crt
+secrets/
+credentials.*
+config.local.*
+*.secret
