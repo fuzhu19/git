@@ -119,15 +119,6 @@ web.config
 *.suo
 *.csproj.user
 
-# ===== 文档 =====
-*.pdf
-*.docx
-*.doc
-*.pptx
-*.ppt
-*.xlsx
-*.xls
-
 # ===== 大文件 & 数据 =====
 *.pkl
 *.h5
